@@ -1,7 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1,Radio ZET - Radio ZET
-http://zet-net-01.cdn.eurozet.pl:8400/listen.pls
-
-#EXTINF:-1,RMF FM - RMF FM
-https://rs202-krk.rmfstream.pl/rmf_fm
