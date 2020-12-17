@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Radio Eska Warszawa
+http://waw01-01.ic.smcdn.pl:8000/t042-1.mp3
+#EXTINF:-1,Radio Eska Wrocław
+http://waw01-01.ic.smcdn.pl:8000/t044-1.mp3
+#EXTINF:-1,Radio Eska Kraków
+http://waw01-01.ic.smcdn.pl:8000/t046-1.mp3
+#EXTINF:-1,Radio Eska Poznań
+http://waw01-01.ic.smcdn.pl:8000/t043-1.mp3
+#EXTINF:-1,Radio Eska Trojmiasto
+http://waw01-01.ic.smcdn.pl:8000/t048-1.mp3
+#EXTINF:-1,Radio Eska Lodz
+http://waw01-01.ic.smcdn.pl:8000/t040-1.mp3
