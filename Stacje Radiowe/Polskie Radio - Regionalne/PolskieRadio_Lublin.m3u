@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Radio Lublin - 128k
+http://streaming.radio.lublin.pl:8000/128k
+#EXTINF:-1,Radio Lublin - 32k
+http://streaming.radio.lublin.pl:8000/32k
+#EXTINF:-1,Radio Lublin - mp3
+http://streaming.radio.lublin.pl:8000/rl_mp3
+#EXTINF:-1,Radio Lublin - 64k
+http://streaming.radio.lublin.pl:8000/64k
